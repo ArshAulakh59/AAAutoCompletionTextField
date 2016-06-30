@@ -1,0 +1,27 @@
+{
+  "name": "AutoCompletionTextField",
+  "version": "0.1.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "A short description of AutoCompletionTextField.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/AutoCompletionTextField",
+  "authors": {
+    "AutoCompletionTextField_OWNER": "USER_EMAIL"
+  },
+  "source": {
+    "git": "https://github.com/GITHUB_USERNAME/AutoCompletionTextField.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Source/*.swift",
+  "resource_bundles": {
+    "AutoCompletionTextField": [
+      "Resources/**/*.{png}"
+    ]
+  }
+}

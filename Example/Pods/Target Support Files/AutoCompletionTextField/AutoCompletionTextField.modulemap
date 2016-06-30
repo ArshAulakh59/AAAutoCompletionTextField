@@ -1,0 +1,6 @@
+framework module AutoCompletionTextField {
+  umbrella header "AutoCompletionTextField-umbrella.h"
+
+  export *
+  module * { export * }
+}
